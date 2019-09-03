@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+cx_Freeze/
+build/
 __pycache__/
 *.py[cod]
 *$py.class
