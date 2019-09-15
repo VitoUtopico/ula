@@ -133,6 +133,27 @@ processa_menu_inicial(menu_inicial())
 
 
 
+<<<<<<< HEAD
+=======
+print('\
+ ___________________ Indicação de Overflow\
+|\
+| __________________ Indicação de Resultado negativo de subtração\
+||\
+|| _________________ Indicação de Zero no acumulador\
+|||\
+|||\
+|||\
+')
+
+
+
+
+
+
+
+
+>>>>>>> f9441743f2d1960436644f260ccc455e34e7a0b0
 
 
 
